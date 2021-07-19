@@ -512,6 +512,7 @@
 	position: absolute;
 	right: 0;
 	top: 0;
+	margin-top: 30;
 }
 .parallax-content h3{
 	font-size: 24px;
