@@ -1655,3 +1655,18 @@ a.footer-logo{
 		font-size: 18px;
 	}
 }
+
+#main-Photo{
+	height: 70vh;
+	max-width: 100%;
+	background-image:url(images/IMG_20201203_130931.jpg);
+	background-size: 100% 100%;
+}
+
+#mission-vision{
+
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
