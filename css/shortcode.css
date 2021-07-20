@@ -614,9 +614,10 @@
 }
 .section-header-block{
 	position: relative;
+
 }
-.section-header-block > a {
-    position: absolute;
+#event-view-button {
+    position: relative;
     right: 0;
 	text-decoration: none;
 	font-size: 14px;
@@ -629,7 +630,7 @@
 	-moz-transition: all 1s ease 0s;
 	-o-transition: all 1s ease 0s;
 }
-.section-header-block > a:hover {
+#event-view-button:hover {
 	background-color: #ffc722;
 	border-color: #ffc722;
 }
@@ -2938,6 +2939,7 @@
 	.parallax-content{
 		width: 70%;		
 		padding-right: 10%;
+		
 	}
 	
 	/* -- Event Section */
