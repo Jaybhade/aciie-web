@@ -1930,7 +1930,7 @@ h1 {
 h3:after {
   content: " ";
   display: block;
-  width: 10%;
+  width: 60px;
   height: 2px;
   margin: 20px auto;
   border: 0;
@@ -1938,6 +1938,27 @@ h3:after {
   transition: all 0.2s;
 }
 
+#heading:after {
+  content: " ";
+  display: block;
+  width: 60px;
+  height: 2px;
+  margin: 20px auto;
+  border: 0;
+  background: #bda26b;
+  transition: all 0.2s;
+}
+
+#heading-motto:after {
+  content: " ";
+  display: block;
+  width: 60px;
+  height: 2px;
+  margin: 20px auto;
+  border: 0;
+  background: black;
+  transition: all 0.2s;
+}
 @keyframes changeLetter {
   0% {
     width: 10%;
