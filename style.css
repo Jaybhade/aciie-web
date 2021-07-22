@@ -49,7 +49,9 @@
 
 /* ## Global */
 body {
-  font-family: "Roboto", sans-serif;
+  /* font-family: "Roboto", sans-serif; */
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  src: url("/fonts/SFPro/TrueType/SFProDisplay-Regular.ttf");
   font-size: 15px;
   color: #000;
   overflow-x: hidden;
@@ -123,7 +125,8 @@ a {
   color: #222;
   font-size: 32px;
   line-height: 28px;
-  font-family: "Roboto Slab", serif;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  src: url("/fonts/SFPro/TrueType/SFProDisplay-Regular.ttf");
   font-weight: 700;
   text-transform: capitalize;
   margin: 0 0 17px;
@@ -137,7 +140,8 @@ a {
   font-size: 15px;
   letter-spacing: 0.3px;
   line-height: 26px;
-  font-family: "Open Sans", sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  src: url("/fonts/SFPro/TrueType/SFProDisplay-Regular.ttf");
   word-wrap: break-word;
 }
 
@@ -146,7 +150,8 @@ a {
 /* font-family: 'Roboto', sans-serif; */
 /* cyrillic-ext */
 @font-face {
-  font-family: "Roboto";
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  src: url("/fonts/SFPro/TrueType/SFProDisplay-Regular.ttf");
   font-style: normal;
   font-weight: 300;
   src: local("Roboto Light"), local("Roboto-Light"),
@@ -156,7 +161,8 @@ a {
 }
 /* cyrillic */
 @font-face {
-  font-family: "Roboto";
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  src: url("/fonts/SFPro/TrueType/SFProDisplay-Regular.ttf");
   font-style: normal;
   font-weight: 300;
   src: local("Roboto Light"), local("Roboto-Light"),
@@ -166,7 +172,8 @@ a {
 }
 /* greek-ext */
 @font-face {
-  font-family: "Roboto";
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  src: url("/fonts/SFPro/TrueType/SFProDisplay-Regular.ttf");
   font-style: normal;
   font-weight: 300;
   src: local("Roboto Light"), local("Roboto-Light"),
@@ -176,7 +183,8 @@ a {
 }
 /* greek */
 @font-face {
-  font-family: "Roboto";
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  src: url("/fonts/SFPro/TrueType/SFProDisplay-Regular.ttf");
   font-style: normal;
   font-weight: 300;
   src: local("Roboto Light"), local("Roboto-Light"),
@@ -186,7 +194,8 @@ a {
 }
 /* vietnamese */
 @font-face {
-  font-family: "Roboto";
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  src: url("/fonts/SFPro/TrueType/SFProDisplay-Regular.ttf");
   font-style: normal;
   font-weight: 300;
   src: local("Roboto Light"), local("Roboto-Light"),
@@ -196,7 +205,8 @@ a {
 }
 /* latin-ext */
 @font-face {
-  font-family: "Roboto";
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  src: url("/fonts/SFPro/TrueType/SFProDisplay-Regular.ttf");
   font-style: normal;
   font-weight: 300;
   src: local("Roboto Light"), local("Roboto-Light"),
@@ -207,7 +217,8 @@ a {
 }
 /* latin */
 @font-face {
-  font-family: "Roboto";
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  src: url("/fonts/SFPro/TrueType/SFProDisplay-Regular.ttf");
   font-style: normal;
   font-weight: 300;
   src: local("Roboto Light"), local("Roboto-Light"),
@@ -218,7 +229,8 @@ a {
 }
 /* cyrillic-ext */
 @font-face {
-  font-family: "Roboto";
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  src: url("/fonts/SFPro/TrueType/SFProDisplay-Regular.ttf");
   font-style: normal;
   font-weight: 400;
   src: local("Roboto"), local("Roboto-Regular"),
@@ -228,7 +240,8 @@ a {
 }
 /* cyrillic */
 @font-face {
-  font-family: "Roboto";
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  src: url("/fonts/SFPro/TrueType/SFProDisplay-Regular.ttf");
   font-style: normal;
   font-weight: 400;
   src: local("Roboto"), local("Roboto-Regular"),
@@ -238,7 +251,8 @@ a {
 }
 /* greek-ext */
 @font-face {
-  font-family: "Roboto";
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  src: url("/fonts/SFPro/TrueType/SFProDisplay-Regular.ttf");
   font-style: normal;
   font-weight: 400;
   src: local("Roboto"), local("Roboto-Regular"),
@@ -248,7 +262,8 @@ a {
 }
 /* greek */
 @font-face {
-  font-family: "Roboto";
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  src: url("/fonts/SFPro/TrueType/SFProDisplay-Regular.ttf");
   font-style: normal;
   font-weight: 400;
   src: local("Roboto"), local("Roboto-Regular"),
@@ -258,7 +273,8 @@ a {
 }
 /* vietnamese */
 @font-face {
-  font-family: "Roboto";
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  src: url("/fonts/SFPro/TrueType/SFProDisplay-Regular.ttf");
   font-style: normal;
   font-weight: 400;
   src: local("Roboto"), local("Roboto-Regular"),
@@ -268,7 +284,8 @@ a {
 }
 /* latin-ext */
 @font-face {
-  font-family: "Roboto";
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  src: url("/fonts/SFPro/TrueType/SFProDisplay-Regular.ttf");
   font-style: normal;
   font-weight: 400;
   src: local("Roboto"), local("Roboto-Regular"),
@@ -279,7 +296,8 @@ a {
 }
 /* latin */
 @font-face {
-  font-family: "Roboto";
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  src: url("/fonts/SFPro/TrueType/SFProDisplay-Regular.ttf");
   font-style: normal;
   font-weight: 400;
   src: local("Roboto"), local("Roboto-Regular"),
@@ -290,7 +308,8 @@ a {
 }
 /* cyrillic-ext */
 @font-face {
-  font-family: "Roboto";
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  src: url("/fonts/SFPro/TrueType/SFProDisplay-Regular.ttf");
   font-style: normal;
   font-weight: 500;
   src: local("Roboto Medium"), local("Roboto-Medium"),
@@ -300,7 +319,8 @@ a {
 }
 /* cyrillic */
 @font-face {
-  font-family: "Roboto";
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  src: url("/fonts/SFPro/TrueType/SFProDisplay-Regular.ttf");
   font-style: normal;
   font-weight: 500;
   src: local("Roboto Medium"), local("Roboto-Medium"),
@@ -310,7 +330,8 @@ a {
 }
 /* greek-ext */
 @font-face {
-  font-family: "Roboto";
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  src: url("/fonts/SFPro/TrueType/SFProDisplay-Regular.ttf");
   font-style: normal;
   font-weight: 500;
   src: local("Roboto Medium"), local("Roboto-Medium"),
@@ -320,7 +341,8 @@ a {
 }
 /* greek */
 @font-face {
-  font-family: "Roboto";
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  src: url("/fonts/SFPro/TrueType/SFProDisplay-Regular.ttf");
   font-style: normal;
   font-weight: 500;
   src: local("Roboto Medium"), local("Roboto-Medium"),
@@ -330,7 +352,8 @@ a {
 }
 /* vietnamese */
 @font-face {
-  font-family: "Roboto";
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  src: url("/fonts/SFPro/TrueType/SFProDisplay-Regular.ttf");
   font-style: normal;
   font-weight: 500;
   src: local("Roboto Medium"), local("Roboto-Medium"),
@@ -340,7 +363,8 @@ a {
 }
 /* latin-ext */
 @font-face {
-  font-family: "Roboto";
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  src: url("/fonts/SFPro/TrueType/SFProDisplay-Regular.ttf");
   font-style: normal;
   font-weight: 500;
   src: local("Roboto Medium"), local("Roboto-Medium"),
@@ -351,7 +375,8 @@ a {
 }
 /* latin */
 @font-face {
-  font-family: "Roboto";
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  src: url("/fonts/SFPro/TrueType/SFProDisplay-Regular.ttf");
   font-style: normal;
   font-weight: 500;
   src: local("Roboto Medium"), local("Roboto-Medium"),
@@ -362,7 +387,8 @@ a {
 }
 /* cyrillic-ext */
 @font-face {
-  font-family: "Roboto";
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  src: url("/fonts/SFPro/TrueType/SFProDisplay-Regular.ttf");
   font-style: normal;
   font-weight: 700;
   src: local("Roboto Bold"), local("Roboto-Bold"),
@@ -372,7 +398,8 @@ a {
 }
 /* cyrillic */
 @font-face {
-  font-family: "Roboto";
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  src: url("/fonts/SFPro/TrueType/SFProDisplay-Regular.ttf");
   font-style: normal;
   font-weight: 700;
   src: local("Roboto Bold"), local("Roboto-Bold"),
@@ -382,7 +409,8 @@ a {
 }
 /* greek-ext */
 @font-face {
-  font-family: "Roboto";
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  src: url("/fonts/SFPro/TrueType/SFProDisplay-Regular.ttf");
   font-style: normal;
   font-weight: 700;
   src: local("Roboto Bold"), local("Roboto-Bold"),
@@ -392,7 +420,8 @@ a {
 }
 /* greek */
 @font-face {
-  font-family: "Roboto";
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  src: url("/fonts/SFPro/TrueType/SFProDisplay-Regular.ttf");
   font-style: normal;
   font-weight: 700;
   src: local("Roboto Bold"), local("Roboto-Bold"),
@@ -402,7 +431,8 @@ a {
 }
 /* vietnamese */
 @font-face {
-  font-family: "Roboto";
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  src: url("/fonts/SFPro/TrueType/SFProDisplay-Regular.ttf");
   font-style: normal;
   font-weight: 700;
   src: local("Roboto Bold"), local("Roboto-Bold"),
@@ -412,7 +442,8 @@ a {
 }
 /* latin-ext */
 @font-face {
-  font-family: "Roboto";
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  src: url("/fonts/SFPro/TrueType/SFProDisplay-Regular.ttf");
   font-style: normal;
   font-weight: 700;
   src: local("Roboto Bold"), local("Roboto-Bold"),
@@ -423,7 +454,8 @@ a {
 }
 /* latin */
 @font-face {
-  font-family: "Roboto";
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  src: url("/fonts/SFPro/TrueType/SFProDisplay-Regular.ttf");
   font-style: normal;
   font-weight: 700;
   src: local("Roboto Bold"), local("Roboto-Bold"),
@@ -434,7 +466,8 @@ a {
 }
 /* cyrillic-ext */
 @font-face {
-  font-family: "Roboto";
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  src: url("/fonts/SFPro/TrueType/SFProDisplay-Regular.ttf");
   font-style: italic;
   font-weight: 300;
   src: local("Roboto Light Italic"), local("Roboto-LightItalic"),
@@ -444,7 +477,8 @@ a {
 }
 /* cyrillic */
 @font-face {
-  font-family: "Roboto";
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  src: url("/fonts/SFPro/TrueType/SFProDisplay-Regular.ttf");
   font-style: italic;
   font-weight: 300;
   src: local("Roboto Light Italic"), local("Roboto-LightItalic"),
@@ -454,7 +488,8 @@ a {
 }
 /* greek-ext */
 @font-face {
-  font-family: "Roboto";
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  src: url("/fonts/SFPro/TrueType/SFProDisplay-Regular.ttf");
   font-style: italic;
   font-weight: 300;
   src: local("Roboto Light Italic"), local("Roboto-LightItalic"),
@@ -464,7 +499,8 @@ a {
 }
 /* greek */
 @font-face {
-  font-family: "Roboto";
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  src: url("/fonts/SFPro/TrueType/SFProDisplay-Regular.ttf");
   font-style: italic;
   font-weight: 300;
   src: local("Roboto Light Italic"), local("Roboto-LightItalic"),
@@ -474,7 +510,8 @@ a {
 }
 /* vietnamese */
 @font-face {
-  font-family: "Roboto";
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  src: url("/fonts/SFPro/TrueType/SFProDisplay-Regular.ttf");
   font-style: italic;
   font-weight: 300;
   src: local("Roboto Light Italic"), local("Roboto-LightItalic"),
@@ -484,7 +521,8 @@ a {
 }
 /* latin-ext */
 @font-face {
-  font-family: "Roboto";
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  src: url("/fonts/SFPro/TrueType/SFProDisplay-Regular.ttf");
   font-style: italic;
   font-weight: 300;
   src: local("Roboto Light Italic"), local("Roboto-LightItalic"),
@@ -495,7 +533,8 @@ a {
 }
 /* latin */
 @font-face {
-  font-family: "Roboto";
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  src: url("/fonts/SFPro/TrueType/SFProDisplay-Regular.ttf");
   font-style: italic;
   font-weight: 300;
   src: local("Roboto Light Italic"), local("Roboto-LightItalic"),
@@ -1847,25 +1886,24 @@ a.footer-logo {
   justify-content: center;
   align-items: center;
   text-align: center;
- 
 }
 
 #article::before {
   content: "";
   position: absolute;
-  top: 0; 
+  top: 0;
   left: 0;
-  width: 100%; 
-  height: 100%;  
-  opacity: 0.4; 
+  width: 100%;
+  height: 100%;
+  opacity: 0.4;
   z-index: -1;
   background: url(images/blog1.jpg);
 }
 
-@media(min-width:790px){
-  #aciie-supports-columns{
-   display: flex;
-   flex-direction: row;
-   justify-content: space-around;
+@media (min-width: 790px) {
+  #aciie-supports-columns {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
   }
 }
