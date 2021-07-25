@@ -1907,7 +1907,7 @@ a.footer-logo {
     justify-content: space-around;
   }
 }
-.ss-img{
+.ss-img {
   position: absolute;
   left: 0px;
   top: 0;
@@ -1915,8 +1915,7 @@ a.footer-logo {
   background-color: white;
   border-radius: 50px;
 }
-.ss-logo{
+.ss-logo {
   background-color: white;
   border-radius: 50px;
-  
 }
