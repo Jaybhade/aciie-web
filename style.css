@@ -1886,7 +1886,7 @@ a.footer-logo {
   justify-content: center;
   align-items: center;
   text-align: center;
-  border:0.001mm wheat;
+  border:0.5mm wheat;
   border-style: solid;
   border-radius: 2px;
   transition:transform 0.75s;
