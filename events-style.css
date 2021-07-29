@@ -1338,7 +1338,7 @@ a.footer-logo{
 
 /* ## Page Banner */
 .pagebanner {
-	background: url("images/pagebanner-courses.jpg"); 
+	background: url("images/incubation_centre-01.png"); 
 	-webkit-background-size: cover;
 	background-size: cover;
 	background-position: center center;
@@ -1650,8 +1650,23 @@ a.footer-logo{
 	/* -- PageBanner */	
 	.pagebanner-content{
 		margin-top: 130px;
+		
 	}
 	.pagebanner h3{
 		font-size: 18px;
 	}
 }
+
+.ss-img {
+	position: absolute;
+	left: 0px;
+	top: 0;
+	height: 45px;
+	background-color: white;
+	border-radius: 50px;
+  }
+  .ss-logo {
+	background-color: white;
+	border-radius: 50px;
+  }
+  
