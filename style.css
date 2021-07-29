@@ -1886,17 +1886,16 @@ a.footer-logo {
   justify-content: center;
   align-items: center;
   text-align: center;
-  border:0.5mm wheat;
+  border: 0.5mm wheat;
   border-style: solid;
   border-radius: 2px;
-  transition:transform 0.75s;
+  transition: transform 0.75s;
 }
-.article h3{
+.article h3 {
   font-family: "Roboto", sans-serif;
 }
-.article:hover{
- transform: scale(1.075);
- 
+.article:hover {
+  transform: scale(1.075);
 }
 #article-incubation-cell::before {
   content: "";
@@ -1921,7 +1920,6 @@ a.footer-logo {
   z-index: -1;
   background: url(images/ecell\ 2-01.png);
   background-size: 100% 100%;
-  
 }
 
 @media (min-width: 790px) {
