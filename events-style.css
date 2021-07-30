@@ -1359,6 +1359,10 @@ a.footer-logo{
 }
 .pagebanner-content{
 	margin-top: 135px;
+justify-content: center;
+text-align: center;
+align-items: center;
+display: flex;
 }
 .pagebanner h3{
 	position: relative;
@@ -1650,10 +1654,11 @@ a.footer-logo{
 	/* -- PageBanner */	
 	.pagebanner-content{
 		margin-top: 130px;
-		
+			
 	}
 	.pagebanner h3{
 		font-size: 18px;
+		
 	}
 }
 
