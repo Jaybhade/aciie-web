@@ -1844,7 +1844,7 @@ a.footer-logo {
     display: flex;
     height: 85vh;
     max-width: 100%;
-    background-image: url(images/maimage_laptop_cropped.jpg);
+    background-image: url(images/banner.png);
     background-size: 100% 100%;
   }
   #about-section {
@@ -1865,7 +1865,7 @@ a.footer-logo {
     display: flex;
     height: 75vh;
     max-width: 100%;
-    background-image: url(images/maimage_mobile_cropped.jpg);
+    background-image: url(images/Incubation.png);
     background-size: 100% 100%;
   }
   #about-section {
