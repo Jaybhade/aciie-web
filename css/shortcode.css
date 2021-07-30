@@ -3143,7 +3143,7 @@
 	}
 	
 	/* -- Event Section */
-	.event-box{
+	.IC-border{
 		border: 0.5mm ;border-style:solid;border-radius:5px;border-color:wheat;padding:10px
 	}
 	.event-box .col-md-7{

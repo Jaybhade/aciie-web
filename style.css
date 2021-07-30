@@ -1695,7 +1695,7 @@ a.footer-logo {
 }
 
 /* -- max-width: 767 */
-@media (max-width: 767px) 
+@media (max-width: 767px) {
   .event-block {
     display: flex;
     flex-direction: column;
