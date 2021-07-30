@@ -1349,6 +1349,7 @@ a.footer-logo{
 }
 .pagebanner::before {
 	background-color: rgba(0, 0, 0, 0.7);
+	opacity: 0.25;
 	bottom: 0;
 	content: "";
 	display: inline-block;
@@ -1362,17 +1363,17 @@ a.footer-logo{
 justify-content: center;
 text-align: center;
 align-items: center;
-display: flex;
+
 }
 .pagebanner h3{
 	position: relative;
-	font-size: 35px;
+	font-size: 45px;
 	line-height: 26px;
 	font-family: 'Roboto Slab', serif;
 	font-weight: 700;
 	color: #fff;
 	display: inline-block;
-	float: left;
+
 	margin: 0;
 }
 .pagebanner .breadcrumb {
