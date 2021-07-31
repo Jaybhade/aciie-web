@@ -1907,6 +1907,8 @@ a.footer-logo {
 #article-incubation-cell::before {
   content: "";
   position: absolute;
+  margin-top: 10px;
+  margin-bottom: 10px;
   top: 0;
   left: 0;
   width: 100%;
@@ -1919,6 +1921,8 @@ a.footer-logo {
 #article-ecell::before {
   content: "";
   position: absolute;
+  margin-top: 10px;
+  margin-bottom: 10px;
   top: 0;
   left: 0;
   width: 100%;
