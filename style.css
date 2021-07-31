@@ -1888,7 +1888,7 @@ a.footer-logo {
   position: relative;
   z-index: 1;
   padding: 10px;
-  height: 50vh;
+  /* height: 50vh; */
   justify-content: center;
   align-items: center;
   text-align: center;
@@ -1913,7 +1913,7 @@ a.footer-logo {
   height: 100%;
   opacity: 0.1;
   z-index: -1;
-  background: url(images/Incubation.png);
+  /* background: url(images/Incubation.png); */
   background-size: 100% 100%;
 }
 #article-ecell::before {
@@ -1925,7 +1925,7 @@ a.footer-logo {
   height: 100%;
   opacity: 0.1;
   z-index: -1;
-  background: url(images/ecell\ 2-01.png);
+  /* background: url(images/ecell\ 2-01.png); */
   background-size: 100% 100%;
 }
 
