@@ -1843,6 +1843,9 @@ a.footer-logo {
   text-align: center;
 }
 @media (min-width: 768px) {
+  .article {
+    height: 400px;
+  }
   #main-Photo {
     justify-content: center;
     text-align: center;
@@ -1902,7 +1905,7 @@ a.footer-logo {
   font-family: "Roboto", sans-serif;
 }
 .article:hover {
-  transform: scale(1.075);
+  /* transform: scale(1.075); */
 }
 #article-incubation-cell::before {
   content: "";
@@ -1951,4 +1954,8 @@ a.footer-logo {
 .ss-logo {
   background-color: white;
   border-radius: 50px;
+}
+
+#aciie-supports-column {
+  display: flex;
 }
