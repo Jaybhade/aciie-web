@@ -1905,7 +1905,7 @@ a.footer-logo {
   font-family: "Roboto", sans-serif;
 }
 .article:hover {
-  /* transform: scale(1.075); */
+  transform: scale(1.075);
 }
 #article-incubation-cell::before {
   content: "";
