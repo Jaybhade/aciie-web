@@ -1811,3 +1811,19 @@ a.footer-logo {
     font-size: 18px;
   }
 }
+
+.ss-logo {
+  background-color: white;
+  border-radius: 50px;
+}
+.ss-img {
+  position: absolute;
+  left: 0px;
+  top: 0;
+  height: 45px;
+  background-color: white;
+  border-radius: 50px;
+}
+#mob-about{
+  margin-left:2.5%;
+}

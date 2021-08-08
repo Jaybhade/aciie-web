@@ -1596,7 +1596,7 @@ a.footer-logo {
   .about_widget ul li a {
     margin-right: 5px;
   }
-
+ 
   /* -- Wiget:: UpcomingEvent */
   .upcoming-eventbox ul li {
     margin-right: 10px;
@@ -1852,7 +1852,7 @@ a.footer-logo {
 }
 @media (min-width: 768px) {
   .article {
-    height: 400px;
+    height: 450px;
   }
   #main-Photo {
     justify-content: center;
