@@ -1480,10 +1480,20 @@ a.footer-logo {
 .footer2 .newsletter_widget ul li {
   display: inline-block;
 }
+#about-section-image {
+  background: url("images/INNOVATION\ BANNER\ 1080X900-01.png");
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size:contain;
+  position: relative;
+  min-height: 200px;
 
+}
 /* ## Page Banner */
 .pagebanner {
-  background: url("images/incubation_centre-01.png");
+  background: url("images/web\ banner\ innovation-01.png");
   -webkit-background-size: cover;
   background-size: cover;
   background-position: center center;
@@ -1597,6 +1607,16 @@ a.footer-logo {
 @media (max-width: 991px) {
   /* -- Menu Block */
   /* -- Menu Search */
+  .pagebanner {
+		background: url("images/mobile\ banner\ innovation-01.png"); 
+		-webkit-background-size: cover;
+		background-size: cover;
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		position: relative;
+		min-height: 300px;
+	}
   .menu-block .menu-search {
     right: 85px;
     top: 18px;
