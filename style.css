@@ -1706,10 +1706,7 @@ a.footer-logo {
 
 /* -- max-width: 767 */
 @media (max-width: 767px) {
-  .about-us-section {
-    padding: 20px 10%;
-  }
-
+ 
   .event-block {
     display: flex;
     flex-direction: column;
